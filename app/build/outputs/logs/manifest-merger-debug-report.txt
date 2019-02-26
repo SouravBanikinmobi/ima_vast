@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-15.0.1.aar/79a12f5aad92e2cfa59b8a18dec56d93/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.1.1.aar/58f191323a462378bd9aa9d5d77e91d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f8a0c0c812882f29da7853b7f4969c43/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/86d7637c49c0804bfc853b149cb574e0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/19d10cfc7023d61729ed452ed4576de4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b982553c0e525f3a108e2adef5c50787/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/3c2755c4583680920173987700bb573b/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/636ffbe7f02fd1620520d8d020d9de6c/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/3d893e546b62066468febe03e73a3296/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a41889e7b97205f87edc7a9be2b9f053/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/b0de9be34ab034745b9e2adc195fcf63/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9543195d110c5f06611839496d9530b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f871d26bb74c3ac34e7003c69ab369d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/87ae8936df5bd4adbfdb2cea9c35f9c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4c52dd5ef85975ed945c215b2fce84b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/4e611a011b86e22be2a800e71e76a3dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5819942c5ee7bf94ac196b33e6c3ff68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5733a62a9b14aa69cb72d21d1daae216/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6e23ca6320c3ba15f4444f0b76410a8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ed0dd17c9dbd91f47d5d62467e0d855/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/427a8b252fc7b1b6518492db6b90a114/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3612c7dfd65e93e717051b46d77abb52/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e0150a781de0dcba780b3b3732646360/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e780d24131646890c2ad23e43b00570/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3dc30eae28ea7e03262a70801665d0b6/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:3:5-72
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:7:5-14:19
+MERGED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:7:5-14:19
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-15.0.1.aar/79a12f5aad92e2cfa59b8a18dec56d93/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-15.0.1.aar/79a12f5aad92e2cfa59b8a18dec56d93/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/3c2755c4583680920173987700bb573b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/3c2755c4583680920173987700bb573b/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/636ffbe7f02fd1620520d8d020d9de6c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/636ffbe7f02fd1620520d8d020d9de6c/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a41889e7b97205f87edc7a9be2b9f053/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a41889e7b97205f87edc7a9be2b9f053/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/b0de9be34ab034745b9e2adc195fcf63/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/b0de9be34ab034745b9e2adc195fcf63/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/427a8b252fc7b1b6518492db6b90a114/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/427a8b252fc7b1b6518492db6b90a114/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:10:9-45
+	android:allowBackup
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:12:9-40
+	android:networkSecurityConfig
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:13:9-69
+meta-data#com.google.android.gms.version
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:15:9-17:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/b0de9be34ab034745b9e2adc195fcf63/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/b0de9be34ab034745b9e2adc195fcf63/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:17:13-66
+	android:name
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:16:13-58
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:18:9-20:109
+	android:value
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:20:13-106
+	android:name
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:19:13-93
+activity#com.google.ads.interactivemedia.v3.samples.videoplayerapp.MyActivity
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:21:9-29:20
+	android:label
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:23:13-45
+	android:configChanges
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:24:13-122
+	android:name
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:22:13-39
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-15.0.1.aar/79a12f5aad92e2cfa59b8a18dec56d93/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-15.0.1.aar/79a12f5aad92e2cfa59b8a18dec56d93/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.1.1.aar/58f191323a462378bd9aa9d5d77e91d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-27.1.1.aar/58f191323a462378bd9aa9d5d77e91d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f8a0c0c812882f29da7853b7f4969c43/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/f8a0c0c812882f29da7853b7f4969c43/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/86d7637c49c0804bfc853b149cb574e0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/86d7637c49c0804bfc853b149cb574e0/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:customtabs:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/19d10cfc7023d61729ed452ed4576de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/customtabs-27.1.1.aar/19d10cfc7023d61729ed452ed4576de4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b982553c0e525f3a108e2adef5c50787/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/b982553c0e525f3a108e2adef5c50787/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/3c2755c4583680920173987700bb573b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-identifier-15.0.1.aar/3c2755c4583680920173987700bb573b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/636ffbe7f02fd1620520d8d020d9de6c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-gass-15.0.1.aar/636ffbe7f02fd1620520d8d020d9de6c/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/3d893e546b62066468febe03e73a3296/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-flags-15.0.1.aar/3d893e546b62066468febe03e73a3296/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a41889e7b97205f87edc7a9be2b9f053/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/a41889e7b97205f87edc7a9be2b9f053/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/b0de9be34ab034745b9e2adc195fcf63/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/b0de9be34ab034745b9e2adc195fcf63/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9543195d110c5f06611839496d9530b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/9543195d110c5f06611839496d9530b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f871d26bb74c3ac34e7003c69ab369d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/f871d26bb74c3ac34e7003c69ab369d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/87ae8936df5bd4adbfdb2cea9c35f9c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/87ae8936df5bd4adbfdb2cea9c35f9c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4c52dd5ef85975ed945c215b2fce84b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/4c52dd5ef85975ed945c215b2fce84b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/4e611a011b86e22be2a800e71e76a3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/palette-v7-27.1.1.aar/4e611a011b86e22be2a800e71e76a3dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5819942c5ee7bf94ac196b33e6c3ff68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/5819942c5ee7bf94ac196b33e6c3ff68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5733a62a9b14aa69cb72d21d1daae216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/5733a62a9b14aa69cb72d21d1daae216/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6e23ca6320c3ba15f4444f0b76410a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/6e23ca6320c3ba15f4444f0b76410a8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ed0dd17c9dbd91f47d5d62467e0d855/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9ed0dd17c9dbd91f47d5d62467e0d855/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/427a8b252fc7b1b6518492db6b90a114/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-base-15.0.1.aar/427a8b252fc7b1b6518492db6b90a114/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3612c7dfd65e93e717051b46d77abb52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/3612c7dfd65e93e717051b46d77abb52/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e0150a781de0dcba780b3b3732646360/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/e0150a781de0dcba780b3b3732646360/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e780d24131646890c2ad23e43b00570/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/0e780d24131646890c2ad23e43b00570/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3dc30eae28ea7e03262a70801665d0b6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3dc30eae28ea7e03262a70801665d0b6/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-15.0.1.aar/86d7637c49c0804bfc853b149cb574e0/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sourav.banik/Downloads/AdvancedExample 3/app/src/main/AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:8:9-10:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:10:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:9:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:12:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:12:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:13:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-15.0.1.aar/b5c074657ab6fa98ed724ecdabc1cd61/AndroidManifest.xml:13:18-90
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-15.0.1.aar/e7673dd9195b640e0bf7087a33d4335c/AndroidManifest.xml:30:13-65
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/sourav.banik/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/3c5c0c30b1067686affd4c11cb9812a4/AndroidManifest.xml:24:13-79
